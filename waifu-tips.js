@@ -60,7 +60,7 @@ const live2d_settings = {
 // 模型列表
 const live2d_models = [
     {
-        name: 'houmuya',
+        name: 'chen2',
         message: 'SDK3 bronya bilibili@呦克里斯汀娜呦',
         version: 3
     },
