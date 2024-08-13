@@ -60,10 +60,9 @@ const live2d_settings = {
 // 模型列表
 const live2d_models = [
     {
-        name: 'chen',                                     // 模型名称要与文件夹名相同
-        message: 'Im cheeeeennn nya',  // 切换时的提示信息
-        version: 3,                                         // 模型版本，model3.json 结尾的都填3，model.json 结尾的填2
-        // position: 'left'                                 // 此模型的显示位置，会覆盖上面的全局设置，只对此模型生效
+        name: 'houmuya',
+        message: 'SDK3 bronya bilibili@呦克里斯汀娜呦',
+        version: 3
     },
 ]
 /****************************************************************************************************/
