@@ -6,9 +6,6 @@
       "textures/texture_00.png"
     ],
     "Physics": "object_live2d_013_101.asset.physics3.json",
-    "Motions": {
-    }
-  },
   "Groups": [
     {
       "Target": "Parameter",
