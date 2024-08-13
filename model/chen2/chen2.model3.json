@@ -1,11 +1,12 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "object_live2d_013_101.asset.moc3",
+    "Moc": "object_live2d_013_101.asset.txt",
     "Textures": [
       "textures/texture_00.png"
     ],
     "Physics": "object_live2d_013_101.asset.physics3.json",
+  },
   "Groups": [
     {
       "Target": "Parameter",
