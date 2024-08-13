@@ -1,7 +1,7 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "object_live2d_013_101.asset.json",
+    "Moc": "object_live2d_013_101.asset.moc3",
     "Textures": [
       "textures/texture_00.png"
     ],
