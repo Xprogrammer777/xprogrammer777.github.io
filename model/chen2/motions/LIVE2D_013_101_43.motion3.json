@@ -1,8 +1,8 @@
 {
   "Version": 3,
   "Meta": {
-    "Duration": 1.0,
-    "Fps": 60.0,
+    "Duration": 2.0,
+    "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
     "CurveCount": 42,
