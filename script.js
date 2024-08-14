@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const description = document.getElementById('description');
 
     const imageFolder = 'images/';
-    const imageCount = 10;
+    const imageCount = 2;
     const imageFiles = [];
 
     // Generate image filenames
